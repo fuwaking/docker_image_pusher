@@ -6,3 +6,4 @@ nyanmisaka/jellyfin
 talebook/talebook
 wiznote/wizserver
 jasminexzzz/blossom
+mysql:8.0.31
