@@ -7,3 +7,4 @@ talebook/talebook
 wiznote/wizserver
 jasminexzzz/blossom
 mysql:8.0.31
+b3log/siyuan
