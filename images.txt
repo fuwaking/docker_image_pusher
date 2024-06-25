@@ -9,4 +9,4 @@ jasminexzzz/blossom
 mysql:8.0.31
 b3log/siyuan
 advplyr/audiobookshelf
-owo-network/deeplx
+ghcr.io/owo-network/deeplx:latest
