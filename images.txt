@@ -10,3 +10,4 @@ mysql:8.0.31
 b3log/siyuan
 advplyr/audiobookshelf
 ghcr.io/owo-network/deeplx:latest
+justsong/one-api
