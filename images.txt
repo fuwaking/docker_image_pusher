@@ -12,3 +12,4 @@ advplyr/audiobookshelf
 ghcr.io/owo-network/deeplx:latest
 justsong/one-api
 hlohaus789/g4f
+seleniarm/node-chromium
