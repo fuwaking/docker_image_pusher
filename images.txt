@@ -11,3 +11,4 @@ b3log/siyuan
 advplyr/audiobookshelf
 ghcr.io/owo-network/deeplx:latest
 justsong/one-api
+hlohaus789/g4f
