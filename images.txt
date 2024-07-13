@@ -14,4 +14,4 @@ justsong/one-api
 hlohaus789/g4f
 seleniarm/node-chromium
 gdy666/lucky
-opendevin/opendevin
+opendevin
