@@ -15,3 +15,4 @@ hlohaus789/g4f
 seleniarm/node-chromium
 gdy666/lucky
 halleastra/opendevin_official 
+codercom/code-server
